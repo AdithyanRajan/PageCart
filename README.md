@@ -89,15 +89,15 @@ Ensure you have the following installed:
 
 ### **Cloning the Repository**
 ```sh
-git clone https://github.com/your-username/onlinebookstore.git
-cd onlinebookstore
+git clone https://github.com/AdithyanRajan/PageCart/.git
+cd PageCart
 ```
 
 ### **Importing and Running in Eclipse EE**
 
 1. Open **Eclipse Enterprise Edition**
 2. Click **File > Import > Git > Projects from Git > Clone URI**
-3. Paste the repository URL: `https://github.com/your-username/onlinebookstore.git`
+3. Paste the repository URL: `https://github.com/AdithyanRajan/PageCart.git`
 4. Select the **master branch** > Next > Finish
 5. Navigate to `src/main/resources/application.properties` and update database credentials
 6. Right-click on the project > **Run As > Maven Build**
